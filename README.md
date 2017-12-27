@@ -1,6 +1,6 @@
 # PKLogger
-This is a python based keylogger tool , which sends keystrokes on time interval , the output will be of exe so we can run on windows systems. and the tool starts automatically on boot when the targeted system is infected with the this keylogger
-
+PKLogger is a python based keylogger tool , which sends keystrokes on time interval , The output will be of exe so that we can run on any windows platfrom. And the tool starts automatically on boot when the targeted system is infected with the this keylogger
+Tesed on Windows 7 32bit system.
 I used Python 2.7 win32 version
 
 You need the follwing library
@@ -11,3 +11,5 @@ pywin32-217.win32-py2.7
 winshell-0.3.win32
 
 ##Beta product##
+**** Use it with your own risk i am not responsible if you use it in a malicious way****
+FOR EDUCATIONAL PURPOSE ONLY
